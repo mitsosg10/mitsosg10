@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mitsos
 - 👀 I’m interested in mathematics and specificly data scince 
-- 🌱 I’m currently learning python and sql
+- 🌱 I’m currently specified in R,python and sql
 - 💞️ I’m looking to collaborate on any investigation progect using machine learning 
 - 📫 How to reach me on e-mail : mitsospapakonstantinou96@gmail.com
 
