@@ -24,7 +24,7 @@ Data Visualization (Matplotlib, Seaborn)
 
 📚 Technologies I Work With:
 
-Programming Languages: Python, R, SQL
+Programming Languages: Python, R, SQL, HTML
 
 Frameworks & Libraries: PyTorch, PyTorch Geometric, Scikit-learn, Pandas, NumPy, NetworkX
 
